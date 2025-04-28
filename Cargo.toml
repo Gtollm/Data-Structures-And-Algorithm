@@ -1,0 +1,16 @@
+[package]
+name = "kd_tree"
+version = "0.1.0"
+edition = "2024"
+description = "A Rust implementation of a k-dimensional tree data structure"
+authors = ["Gregory Tolmachev <grtollm@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/Gtollm/Data-Structures-And-Algorithm/tree/kd_tree"
+
+[lib]
+name = "kd_tree"
+path = "src/lib.rs"
+
+[dependencies]
+
+[dev-dependencies]
